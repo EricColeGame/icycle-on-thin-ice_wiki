@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "0I9vv616Xuk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Icycle On Thin Ice Wiki",
+  shortName: "Icycle On Thin Ice",
+  logoText: "I",
+  tagline: "Guides, Levels, Walkthroughs & Tips",
+  description: "Explore Icycle On Thin Ice Wiki with gameplay guides, level walkthroughs, puzzle tips, and useful information to help players master the frozen adventure.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://icycle-on-thin-ice.wiki",
+  supportEmail: "support@icycle-on-thin-ice.wiki",
+  gameUrl: "https://store.steampowered.com/app/658990/Icycle_On_Thin_Ice/",
+  heroVideoId: "0I9vv616Xuk",
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://steamcommunity.com/app/658990",
+    youtube: "https://www.youtube.com/watch?v=0I9vv616Xuk",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
