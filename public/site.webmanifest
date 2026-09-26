@@ -1,0 +1,45 @@
+{
+  "name": "Icycle On Thin Ice Wiki",
+  "short_name": "Icycle On Thin Ice",
+  "description": "Explore Icycle On Thin Ice Wiki with gameplay guides, level walkthroughs, puzzle tips, and useful information to help players master the frozen adventure.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4FAFF",
+  "theme_color": "#1ca7d8",
+  "categories": [
+    "games",
+    "entertainment",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
