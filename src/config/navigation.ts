@@ -1,7 +1,7 @@
 export interface NavigationItem {
   key: string;
   path: `/${string}`;
-  icon?: any;
+  icon?: React.ComponentType<{ className?: string }> | React.ReactNode;
   isContentType?: boolean;
 }
 
