@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn bicycle momentum controls, steering, and jump arcs to safely navigate treacherous icy slopes from your very first run."
+          "description": "Master Dennis's bicycle momentum controls, steering, and jump arcs to safely navigate treacherous icy slopes from your very first run in Icycle On Thin Ice."
         },
         {
           "number": "2",
           "title": "Ice Chips Farming",
-          "description": "Collect floating ice crystals along hazard routes and use early vacuum suction to maximize currency for shop unlocks."
+          "description": "Collect floating ice crystals along hazard routes and use early vacuum suction to maximize currency for shop unlocks in Icycle On Thin Ice."
         },
         {
           "number": "3",
           "title": "Umbrella & Glide Mastery",
-          "description": "Master the feathering jump technique to deploy your umbrella canopy, ride thermals, and glide smoothly across massive chasms."
+          "description": "Master the feathering jump technique to deploy your umbrella canopy, ride thermals, and glide smoothly across massive chasms in Icycle On Thin Ice."
         },
         {
           "number": "4",
           "title": "Icebox Shop Upgrades",
-          "description": "Prioritize high-impact utility gear like vacuum cleaners and advanced gliders over vanity apparel to survive tough late stages."
+          "description": "Prioritize high-impact utility gear like vacuum cleaners and advanced gliders over vanity apparel to survive tough late stages in Icycle On Thin Ice."
         }
       ]
     },
@@ -66,44 +66,6 @@
         "Umbrella Gliding",
         "Icebox Upgrades",
         "Steam Achievements"
-      ],
-      "cards": [
-        {
-          "badge": "Beginner",
-          "title": "Game Guide",
-          "description": "Master bicycle momentum, jump timing, and umbrella gliding across treacherous icy terrain.",
-          "href": "/guide/icycle-on-thin-ice-guide"
-        },
-        {
-          "badge": "Walkthrough",
-          "title": "All Locations",
-          "description": "Complete walkthrough covering all 27 levels, secret rooms, and bonus dreamscapes.",
-          "href": "/walkthrough/icycle-on-thin-ice-all-locations"
-        },
-        {
-          "badge": "Upgrades",
-          "title": "All Items & Gear",
-          "description": "Comprehensive breakdown of umbrellas, vacuums, dream vehicles, and wardrobe unlocks.",
-          "href": "/items/icycle-on-thin-ice-all-items"
-        },
-        {
-          "badge": "Tips",
-          "title": "Gameplay Tips",
-          "description": "Essential survival strategies for momentum conservation and hazard avoidance.",
-          "href": "/mechanics/icycle-on-thin-ice-tips"
-        },
-        {
-          "badge": "Completion",
-          "title": "Achievements",
-          "description": "Unlock all 33 achievements, hidden scrapbook dreams, and original retro stages.",
-          "href": "/mechanics/icycle-on-thin-ice-achievements"
-        },
-        {
-          "badge": "Platform",
-          "title": "Steam Edition",
-          "description": "Full PC features, controller configuration, and system requirements.",
-          "href": "/platforms/icycle-on-thin-ice-steam"
-        }
       ]
     },
     "aboutGame": {
