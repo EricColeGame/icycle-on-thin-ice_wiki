@@ -6,7 +6,18 @@
     "description": "Explore Icycle On Thin Ice Wiki with gameplay guides, level walkthroughs, puzzle tips, and useful information to help players master the frozen adventure.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "walkthrough": "Walkthrough",
+    "levels": "Levels",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "community": "Community",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Icycle On Thin Ice Wiki - Guides, Levels & Tips",
@@ -381,11 +392,32 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   },
-  "guide": {},
-  "walkthrough": {},
-  "levels": {},
-  "items": {},
-  "mechanics": {},
-  "platforms": {},
-  "community": {}
+  "guide": {
+    "overviewTitle": "Icycle On Thin Ice Guide & Getting Started",
+    "overviewDescription": "Comprehensive beginner guides, progression advice, and essential mechanics for surviving icy landscapes in Icycle On Thin Ice."
+  },
+  "walkthrough": {
+    "overviewTitle": "Icycle On Thin Ice Walkthrough & Level Solutions",
+    "overviewDescription": "Step-by-step walkthroughs, tricky jump solutions, and survival tactics for all difficult locations in Icycle On Thin Ice."
+  },
+  "levels": {
+    "overviewTitle": "Icycle On Thin Ice Levels Guide",
+    "overviewDescription": "Detailed level breakdowns, hazard navigation, and stage completion tips across all levels in Icycle On Thin Ice."
+  },
+  "items": {
+    "overviewTitle": "Icycle On Thin Ice Items, Dreams & Extras",
+    "overviewDescription": "Discover collectible items, bonus dream stages, wardrobe upgrades, and badges available in Icycle On Thin Ice."
+  },
+  "mechanics": {
+    "overviewTitle": "Icycle On Thin Ice Mechanics & Tips",
+    "overviewDescription": "Master umbrella gliding, bicycle momentum physics, speedrun routes, and achievement completion in Icycle On Thin Ice."
+  },
+  "platforms": {
+    "overviewTitle": "Icycle On Thin Ice Platforms & Availability",
+    "overviewDescription": "Information on Steam PC release, mobile editions, controls setup, and platform availability for Icycle On Thin Ice."
+  },
+  "community": {
+    "overviewTitle": "Icycle On Thin Ice Community & Media",
+    "overviewDescription": "Trailers, game reviews, community discussions, and gameplay showcases for Icycle On Thin Ice."
+  }
 }
