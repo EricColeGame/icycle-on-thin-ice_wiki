@@ -20,8 +20,9 @@ export async function SiteHeader({ locale }: { locale: string }) {
   const header = (
     <div className="flex items-center justify-between gap-4">
       <Link href={localizeHref("/", locale)} className="flex items-center gap-3">
-        <div className="relative h-9 w-9 overflow-hidden rounded-xl border border-border bg-muted shadow-sm">
-          <img src="/images/logo.png" alt="Icycle On Thin Ice Official Trailer" className="h-full w-full object-cover" />
+        <div className="relative flex h-9 w-9 items-center justify-center overflow-hidden rounded-xl border border-border bg-muted shadow-sm">
+          <span className="text-sm font-black text-[hsl(var(--nav-theme))]">I</span>
+          <img src="/images/logo.png" alt={siteConfig.name} className="absolute inset-0 h-full w-full object-cover" onError={(e) => { (e.target as HTMLElement).style.display = "none"; }} />
         </div>
         <span className="text-sm font-bold tracking-wide text-foreground">{siteConfig.name}</span>
       </Link>
