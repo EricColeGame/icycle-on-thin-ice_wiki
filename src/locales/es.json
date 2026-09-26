@@ -1,1 +1,423 @@
-{}
+{
+  "site": {
+    "name": "Icycle On Thin Ice Wiki",
+    "shortName": "Icycle On Thin Ice",
+    "tagline": "Guías, Niveles, Soluciones y Consejos",
+    "description": "Explora la Wiki de Icycle On Thin Ice con guías de juego, soluciones de niveles, consejos para rompecabezas e información útil para dominar esta aventura congelada.",
+    "legalNotice": "Wiki no oficial creada por fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "walkthrough": "Solución",
+    "levels": "Niveles",
+    "items": "Objetos",
+    "mechanics": "Mecánicas",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Icycle On Thin Ice Wiki - Guías, Niveles y Consejos",
+      "description": "Explora la Wiki de Icycle On Thin Ice con guías de juego, soluciones de niveles, consejos para rompecabezas e información útil para dominar esta aventura congelada."
+    },
+    "hero": {
+      "eyebrow": "Aventura de Plataformas y Puzles sobre Hielo",
+      "title": "Icycle On Thin Ice Wiki",
+      "description": "Icycle On Thin Ice es un encantador juego de aventuras de temática invernal con entornos helados, desafíos de rompecabezas y exploración a través de paisajes congelados.",
+      "stats": [
+        "Guía del Juego",
+        "Paso a Paso de Niveles",
+        "Objetos y Mejoras",
+        "Consejos de Jugabilidad"
+      ],
+      "primaryCta": "Guía del Juego",
+      "secondaryCta": "Soluciones de Niveles",
+      "tertiaryCta": "Consejos de Juego",
+      "videoLabel": "Tráiler Oficial"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Comienza Aquí",
+      "title": "Tu Viaje en Icycle On Thin Ice",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Domina la inercia de la bicicleta de Dennis, la dirección y los arcos de salto para navegar con seguridad por pendientes heladas traicioneras desde tu primera partida en Icycle On Thin Ice."
+        },
+        {
+          "number": "2",
+          "title": "Farmeo de Fragmentos de Hielo",
+          "description": "Recoge cristales de hielo flotantes a lo largo de rutas peligrosas y usa la aspiradora temprana para maximizar tu moneda para compras en la tienda de Icycle On Thin Ice."
+        },
+        {
+          "number": "3",
+          "title": "Dominio del Paraguas y Planeo",
+          "description": "Aprende la técnica de salto rítmico para abrir tu paraguas, aprovechar corrientes térmicas y planear con suavidad sobre grandes abismos en Icycle On Thin Ice."
+        },
+        {
+          "number": "4",
+          "title": "Mejoras de la Tienda Nevera",
+          "description": "Prioriza equipo utilitario de alto impacto como aspiradoras y planeadores avanzados antes que ropa estética para sobrevivir a las etapas finales difíciles en Icycle On Thin Ice."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Actuales",
+      "quickLinks": [
+        "Física de la Bicicleta",
+        "Planeo con Paraguas",
+        "Mejoras de la Nevera",
+        "Logros de Steam"
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Icycle On Thin Ice?",
+      "paragraphs": [
+        "Icycle On Thin Ice es un galardonado juego de plataformas surrealista basado en la física desarrollado por Damp Gnat. Los jugadores guían a Dennis, un ciclista excéntrico vestido solo con calcetines de lana, mientras pedalea en una bicicleta diminuta por una Tierra postapocalíptica congelada en busca del amor perdido.",
+        "Recorre más de 27 impresionantes ubicaciones que colapsan y secuencias de sueños psicodélicos llenas de estalactitas mortales, terreno cambiante y secretos ocultos. Equipa paraguas para planear, desbloquea potentes aspiradoras para cosechar fragmentos de hielo y supera 80 misiones ingeniosas en esta aventura clásica de culto."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Damp Gnat"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC e iOS"
+        },
+        {
+          "label": "Género",
+          "value": "Plataformas Surrealista"
+        },
+        {
+          "label": "Ubicaciones",
+          "value": "27 Capítulos"
+        },
+        {
+          "label": "Misiones",
+          "value": "80 Desafíos"
+        },
+        {
+          "label": "Valoración",
+          "value": "96% Positiva"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explora Icycle On Thin Ice Wiki",
+      "description": "Domina el viaje helado de Dennis con guías integrales de progresión, soluciones completas de niveles, catálogos de objetos y consejos esenciales de plataformas.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía del Juego Icycle On Thin Ice",
+          "description": "Una guía completa para principiantes que cubre mecánicas principales, objetivos, controles y el sistema de progresión del juego. Este módulo ayuda a nuevos jugadores a comprender cómo sobrevivir en entornos helados, completar niveles y desbloquear contenido.",
+          "href": "/guide/icycle-on-thin-ice-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aprende el momento y frenado de la bicicleta de Dennis sobre superficies de hielo resbaladizas"
+            },
+            {
+              "label": "2",
+              "detail": "Recoge fragmentos de hielo en rutas seguras para acumular tu moneda"
+            },
+            {
+              "label": "3",
+              "detail": "Despliega paraguas en el aire para flotar suavemente a través de abismos peligrosos"
+            },
+            {
+              "label": "4",
+              "detail": "Mejora las aspiradoras en la Nevera para atraer coleccionables sin riesgo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de Niveles de Icycle On Thin Ice",
+          "description": "Un recorrido nivel por nivel que cubre ubicaciones, obstáculos, áreas ocultas y objetivos de misión. Los jugadores que buscan etapas específicas o formas de superar secciones difíciles encontrarán ayuda estructurada aquí.",
+          "href": "/walkthrough/icycle-on-thin-ice-all-locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Llanuras de Hielo",
+              "detail": "Domina los arcos de salto básicos y la inercia a través del hielo que se derrumba"
+            },
+            {
+              "label": "Ruinas",
+              "detail": "Navega por estructuras colapsadas y peligros de escombros temporizados"
+            },
+            {
+              "label": "Sueños",
+              "detail": "Sobrevive a paisajes oníricos psicodélicos de bonificación con vehículos alternativos"
+            },
+            {
+              "label": "Secretos",
+              "detail": "Descubre 5 cámaras ocultas tras paredes falsas y caídas a ciegas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Logros de Icycle On Thin Ice",
+          "description": "Una guía de logros que enumera los desafíos de Steam, requisitos de desbloqueo y consejos para metas difíciles. Ideal para quienes buscan el 100%.",
+          "href": "/mechanics/icycle-on-thin-ice-achievements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "FIN",
+              "detail": "Completa el viaje narrativo de Dennis a través del emotivo capítulo final",
+              "badge": "Historia"
+            },
+            {
+              "label": "ACAPARADOR",
+              "detail": "Acumula 1.000 cubos de hielo congelados en niveles peligrosos",
+              "badge": "Moneda"
+            },
+            {
+              "label": "SECRETOS",
+              "detail": "Localiza las 5 cámaras ocultas de bonificación en los páramos",
+              "badge": "Exploración"
+            },
+            {
+              "label": "CLÁSICO",
+              "detail": "Supera las 8 ubicaciones clásicas adaptadas del juego web original",
+              "badge": "Retro"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Objetos y Mejoras de Icycle On Thin Ice",
+          "description": "Una guía de coleccionables, prendas desbloqueables y mecánicas de mejora como aspiradoras y paraguas. Explica cómo el equipo influye en la exploración.",
+          "href": "/items/icycle-on-thin-ice-all-items",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Paraguas y Planeador — Herramientas de planeo esenciales para cruzar abismos con seguridad"
+            },
+            {
+              "label": "A",
+              "detail": "Aspiradora — Atrae automáticamente fragmentos de hielo distantes a través del terreno"
+            },
+            {
+              "label": "B",
+              "detail": "Trajes de Vestuario — Siluetas visuales distintas y vestimenta requerida para misiones"
+            },
+            {
+              "label": "C",
+              "detail": "Bicicleta Inicial — Vehículo estándar básico con tracción resbaladiza sensible"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de Misiones de Icycle On Thin Ice",
+          "description": "Una base de datos de misiones con requisitos de finalización y recompensas. Orientada a jugadores que desean desbloquear contenido extra y desafíos adicionales.",
+          "href": "/items/icycle-on-thin-ice-bonus-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Desafíos",
+              "detail": "Completa 80 desafíos específicos por nivel para obtener el máximo de estrellas"
+            },
+            {
+              "label": "Álbum",
+              "detail": "Desbloquea instantáneas fotográficas nostálgicas cumpliendo estrictas condiciones"
+            },
+            {
+              "label": "Partidas Extra",
+              "detail": "Gana estrellas superando niveles sin muertes y con todos los fragmentos"
+            },
+            {
+              "label": "Vestimenta",
+              "detail": "Equipa sombreros y trajes específicos para completar objetivos excéntricos"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Consejos de Jugabilidad de Icycle On Thin Ice",
+          "description": "Consejos prácticos de movimiento, sincronización, esquiva de peligros y rendimiento en secciones de precisión en plataformas. Respuestas rápidas para problemas comunes.",
+          "href": "/mechanics/icycle-on-thin-ice-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sincronía",
+              "detail": "Toca el salto repetidamente en el aire para un control fino de altitud"
+            },
+            {
+              "label": "Freno Aéreo",
+              "detail": "Invierte la dirección en el aire para frenar la inercia en caídas precisas"
+            },
+            {
+              "label": "Pendientes",
+              "detail": "Deja que la gravedad cuesta abajo genere velocidad sin pedalear en exceso"
+            },
+            {
+              "label": "Economía",
+              "detail": "Prioriza el alcance de la aspiradora antes que trajes cosméticos"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tráiler y Jugabilidad de Icycle On Thin Ice",
+          "description": "Sección audiovisual con tráileres oficiales y vídeos de juego que muestran el estilo artístico surrealista y la experiencia de plataformas.",
+          "href": "/community/icycle-on-thin-ice-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pop Art",
+              "detail": "Diseño gráfico de mediados de siglo fusionado con ilustración surrealista europea"
+            },
+            {
+              "label": "Audio",
+              "detail": "Diseño sonoro envolvente con efectos de sala acústicos auténticos"
+            },
+            {
+              "label": "Atmósfera",
+              "detail": "Equilibrio poético entre aislamiento melancólico y humor absurdo"
+            },
+            {
+              "label": "Cinética",
+              "detail": "Entornos vivos que se fracturan, deforman y colapsan en tiempo real"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Información del Juego Icycle On Thin Ice",
+          "description": "Sección de referencia con detalles oficiales, información del desarrollador, plataformas, funciones y requisitos de sistema para conocer todo sobre el juego.",
+          "href": "/platforms/icycle-on-thin-ice-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Desarrollador",
+              "detail": "Creado por Damp Gnat (Reece Millidge) con un sello indie distintivo"
+            },
+            {
+              "label": "Plataformas",
+              "detail": "Disponible en PC mediante Steam y en dispositivos móviles en iOS App Store"
+            },
+            {
+              "label": "Funciones",
+              "detail": "Soporte completo de mandos, logros de Steam y niveles de bonificación"
+            },
+            {
+              "label": "Clásico",
+              "detail": "Incluye la aventura clásica completa original de navegador restaurada"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a preguntas comunes sobre Icycle On Thin Ice.",
+      "items": [
+        {
+          "question": "¿De qué trata Icycle On Thin Ice?",
+          "answer": "Icycle On Thin Ice sigue el surrealista viaje invernal de Dennis, pedaleando en una pequeña bicicleta por paisajes oníricos congelados y estructuras que colapsan mientras busca el amor en un apocalipsis de hielo."
+        },
+        {
+          "question": "¿Cómo funcionan el movimiento y la física de salto en Icycle On Thin Ice?",
+          "answer": "En Icycle On Thin Ice, Dennis conduce una bicicleta regida por el momento y la fricción de la superficie. Pedalear genera velocidad angular, mientras que saltar y accionar rítmicamente el paraguas te permite atrapar corrientes de aire ascendentes, planear sobre abismos y realizar aterrizajes controlados en terreno resbaladizo."
+        },
+        {
+          "question": "¿Cuáles son las mejores mejoras iniciales para comprar en Icycle On Thin Ice?",
+          "answer": "En la tienda Nevera de Icycle On Thin Ice, debes priorizar la compra de la Aspiradora de Depósito y los paraguas planeadores mejorados antes que la ropa cosmética. Las aspiradoras atraen automáticamente fragmentos de hielo distantes, aumentando enormemente tus reservas para etapas avanzadas."
+        },
+        {
+          "question": "¿Cuántos niveles y misiones secretas hay en Icycle On Thin Ice?",
+          "answer": "Icycle On Thin Ice cuenta con 27 ubicaciones principales de campaña, 5 secuencias oníricas surrealistas de bonificación, 5 cámaras ocultas y 80 desafiantes objetivos de misión que otorgan trajes únicos y fotos para el álbum de recuerdos."
+        },
+        {
+          "question": "¿Dónde puedo jugar a Icycle On Thin Ice?",
+          "answer": "Icycle On Thin Ice está disponible en Steam para PC con soporte completo de mandos e incluye el juego clásico original de navegador, así como en plataformas móviles como iOS."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar Icycle On Thin Ice?",
+      "description": "Desde tu primera carrera por los páramos helados hasta dominar cada nivel desafiante, nuestra wiki comunitaria te ofrece guías completas.",
+      "primary": "Leer la Guía del Juego",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios Oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Icycle On Thin Ice Wiki",
+    "about": "Icycle On Thin Ice Wiki es un centro de guías independiente creado por fans que cubre niveles, mecánicas de juego, objetos y soluciones esenciales tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Icycle On Thin Ice Wiki. No afiliado con Damp Gnat, Chillingo ni Steam.",
+    "description": "Encantadora aventura de plataformas y puzles invernales. Explora paisajes congelados y sobrevive a peligros helados.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Comunidad de Steam",
+    "officialYoutube": "Tráiler Oficial",
+    "vvBuilder": "Guía del Juego",
+    "beginnerGuide": "Guía para Principiantes",
+    "raceGuides": "Guía de Niveles",
+    "bossGuides": "Objetos y Mejoras",
+    "buildGuide": "Consejos de Jugabilidad",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos del Servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guía de Icycle On Thin Ice y Primeros Pasos",
+    "overviewDescription": "Guías completas para principiantes, consejos de progresión y mecánicas esenciales para sobrevivir en los paisajes helados de Icycle On Thin Ice."
+  },
+  "walkthrough": {
+    "overviewTitle": "Soluciones y Guía Paso a Paso de Icycle On Thin Ice",
+    "overviewDescription": "Soluciones paso a paso, trucos para saltos difíciles y tácticas de supervivencia en todas las ubicaciones complejas de Icycle On Thin Ice."
+  },
+  "levels": {
+    "overviewTitle": "Guía de Niveles de Icycle On Thin Ice",
+    "overviewDescription": "Análisis detallado de niveles, navegación de peligros y consejos para completar cada etapa en Icycle On Thin Ice."
+  },
+  "items": {
+    "overviewTitle": "Objetos, Sueños y Extras de Icycle On Thin Ice",
+    "overviewDescription": "Descubre objetos coleccionables, etapas oníricas de bonificación, mejoras de armario e insignias disponibles en Icycle On Thin Ice."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas y Consejos de Icycle On Thin Ice",
+    "overviewDescription": "Domina el planeo con paraguas, la física del momento en bicicleta, rutas de speedrun y obtención de logros en Icycle On Thin Ice."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas y Disponibilidad de Icycle On Thin Ice",
+    "overviewDescription": "Información sobre el lanzamiento en Steam para PC, ediciones móviles, configuración de controles y disponibilidad para Icycle On Thin Ice."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y Multimedia de Icycle On Thin Ice",
+    "overviewDescription": "Tráileres, análisis del juego, debates comunitarios y demostraciones de jugabilidad para Icycle On Thin Ice."
+  }
+}

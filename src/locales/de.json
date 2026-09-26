@@ -1,1 +1,423 @@
-{}
+{
+  "site": {
+    "name": "Icycle On Thin Ice Wiki",
+    "shortName": "Icycle On Thin Ice",
+    "tagline": "Leitfäden, Level, Komplettlösungen & Tipps",
+    "description": "Erkunde das Icycle On Thin Ice Wiki mit Gameplay-Guides, Level-Komplettlösungen, Rätseltipps und nützlichen Hinweisen, um das gefrorene Abenteuer zu meistern.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "walkthrough": "Komplettlösung",
+    "levels": "Level",
+    "items": "Gegenstände",
+    "mechanics": "Mechaniken",
+    "platforms": "Plattformen",
+    "community": "Community",
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design umschalten"
+  },
+  "home": {
+    "meta": {
+      "title": "Icycle On Thin Ice Wiki - Leitfäden, Level & Tipps",
+      "description": "Erkunde das Icycle On Thin Ice Wiki mit Gameplay-Guides, Level-Komplettlösungen, Rätseltipps und nützlichen Hinweisen, um das gefrorene Abenteuer zu meistern."
+    },
+    "hero": {
+      "eyebrow": "Entspanntes Eis-Rätselabenteuer",
+      "title": "Icycle On Thin Ice Wiki",
+      "description": "Icycle On Thin Ice ist ein bezauberndes winterliches Abenteuerspiel mit eisigen Landschaften, kniffligen Rätseln und spannender Erkundung durch gefrorene Welten.",
+      "stats": [
+        "Spiele-Guide",
+        "Level-Komplettlösung",
+        "Gegenstände & Upgrades",
+        "Gameplay-Tipps"
+      ],
+      "primaryCta": "Spiele-Guide",
+      "secondaryCta": "Level-Komplettlösungen",
+      "tertiaryCta": "Gameplay-Tipps",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise in Icycle On Thin Ice",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Leitfaden",
+          "description": "Meistere Dennis' Fahrradschwung, Lenkung und Sprungkurven, um von deiner ersten Fahrt an tückische eisige Hänge in Icycle On Thin Ice sicher zu bewältigen."
+        },
+        {
+          "number": "2",
+          "title": "Eissplitter sammeln",
+          "description": "Sammle schwebende Eiskristalle entlang gefährlicher Routen und nutze frühe Staubsauger, um deine Währung für Shop-Freischaltungen in Icycle On Thin Ice zu maximieren."
+        },
+        {
+          "number": "3",
+          "title": "Schirm- & Gleitkunst",
+          "description": "Lerne die rhythmische Sprungtechnik, um deinen Regenschirm aufzuspannen, Aufwinde zu nutzen und sanft über riesige Schluchten in Icycle On Thin Ice zu gleiten."
+        },
+        {
+          "number": "4",
+          "title": "Upgrades im Eisschrank-Shop",
+          "description": "Priorisiere wirkungsvolle Ausrüstung wie Staubsauger und verbesserte Gleiter gegenüber modischer Kleidung, um schwere späte Abschnitte in Icycle On Thin Ice zu überstehen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Fahrradphysik",
+        "Schirmgleiten",
+        "Eisschrank-Upgrades",
+        "Steam-Erfolge"
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Icycle On Thin Ice?",
+      "paragraphs": [
+        "Icycle On Thin Ice ist ein preisgekrönter, surrealer Physik-Plattformer von Entwickler Damp Gnat. Die Spieler begleiten Dennis, einen exzentrischen Radfahrer, der nur mit Wollsocken bekleidet auf einem winzigen Fahrrad durch eine gefrorene, postapokalyptische Erde strampelt, um seine verlorene Liebe zu finden.",
+        "Bereise über 27 atemberaubende, einstürzende Schauplätze und psychedelische Traumsequenzen voller tödlicher Eiszapfen, wandelndem Terrain und verborgener Geheimnisse. Rüste Regenschirme zum Gleiten aus, schalte starke Staubsauger zum Sammeln von Eissplittern frei und meistere 80 originelle Missionen in diesem Kultklassiker."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Damp Gnat"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC & iOS"
+        },
+        {
+          "label": "Genre",
+          "value": "Surrealer Plattformer"
+        },
+        {
+          "label": "Schauplätze",
+          "value": "27 Kapitel"
+        },
+        {
+          "label": "Missionen",
+          "value": "80 Herausforderungen"
+        },
+        {
+          "label": "Bewertung",
+          "value": "96% Positiv"
+        }
+      ],
+      "cta": "Alle Leitfäden entdecken"
+    },
+    "explore": {
+      "title": "Icycle On Thin Ice Wiki erkunden",
+      "description": "Meistere Dennis' frostige Reise mit umfassenden Fortschritts-Leitfäden, kompletten Level-Lösungen, Ausrüstungskatalogen und unverzichtbaren Plattformer-Tipps.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Icycle On Thin Ice Spiele-Guide",
+          "description": "Ein vollständiger Einsteiger-Leitfaden zu Kernmechaniken, Spielzielen, Steuerung und Fortschrittssystem. Dieser Guide hilft neuen Spielern, eisige Umgebungen zu überleben, Level abzuschließen und Inhalte freizuschalten.",
+          "href": "/guide/icycle-on-thin-ice-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lerne Dennis' Fahrradschwung und Bremsen auf glatten Eisoberflächen"
+            },
+            {
+              "label": "2",
+              "detail": "Sammle gefrorene Eissplitter auf sicheren Routen, um Währung aufzubauen"
+            },
+            {
+              "label": "3",
+              "detail": "Öffne Schirme in der Luft, um sanft über gefährliche Abgründe zu schweben"
+            },
+            {
+              "label": "4",
+              "detail": "Verbessere Staubsauger im Eisschrank, um Sammelobjekte risikolos anzuziehen"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Icycle On Thin Ice Level-Leitfaden",
+          "description": "Eine Komplettlösung Level für Level zu Schauplätzen, Hindernissen, geheimen Bereichen und Missionszielen. Ideal für Spieler, die Hilfe bei kniffligen Passagen suchen.",
+          "href": "/walkthrough/icycle-on-thin-ice-all-locations",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Eisebenen",
+              "detail": "Meistere Sprungkurven und grundlegenden Schwung auf einbrechendem Eis"
+            },
+            {
+              "label": "Ruinen",
+              "detail": "Navigiere durch einstürzende Strukturen und herabfallende Trümmer"
+            },
+            {
+              "label": "Träume",
+              "detail": "Überlebe psychedelische Bonus-Traumwelten mit alternativen Fahrzeugen"
+            },
+            {
+              "label": "Geheimnisse",
+              "detail": "Finde 5 verborgene Kammern hinter Scheinfassaden und blinden Sprüngen"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Icycle On Thin Ice Erfolge",
+          "description": "Ein Leitfaden zu allen Steam-Erfolgen, Freischaltanforderungen und Profi-Tipps. Unverzichtbar für alle, die 100% Komplettierung anstreben.",
+          "href": "/mechanics/icycle-on-thin-ice-achievements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "FIN",
+              "detail": "Beende Dennis' emotionale Reise im großen Finale der Kampagne",
+              "badge": "Story"
+            },
+            {
+              "label": "HAMSTERER",
+              "detail": "Sammle 1.000 gefrorene Eiswürfel in anspruchsvollen Leveln",
+              "badge": "Währung"
+            },
+            {
+              "label": "GEHEIMNISSE",
+              "detail": "Finde alle 5 verborgenen Bonuskammern im eisigen Ödland",
+              "badge": "Erkundung"
+            },
+            {
+              "label": "KLASSIKER",
+              "detail": "Meistere alle 8 portierten Originalschauplätze des Browser-Spiels",
+              "badge": "Retro"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Icycle On Thin Ice Gegenstände & Upgrades",
+          "description": "Ein Leitfaden zu Sammlerstücken, freischaltbaren Outfits und Ausrüstungs-Upgrades wie Staubsaugern und Schirmen. Zeigt, wie Ausrüstung den Spielfortschritt erleichtert.",
+          "href": "/items/icycle-on-thin-ice-all-items",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Schirm & Gleiter — Essenzielle Gleitwerkzeuge, um weite Abgründe sicher zu überwinden"
+            },
+            {
+              "label": "A",
+              "detail": "Staubsauger — Zieht entfernte Eissplitter selbst durch festes Terrain automatisch an"
+            },
+            {
+              "label": "B",
+              "detail": "Kleiderschrank-Outfits — Markante Silhouetten und vorgeschriebene Missionskleidung"
+            },
+            {
+              "label": "C",
+              "detail": "Start-Laufrad — Solides Standardfahrrad mit anspruchsvoll rutschiger Bodenhaftung"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Icycle On Thin Ice Missions-Leitfaden",
+          "description": "Eine Datenbank aller verfügbaren Missionen mit Zielanforderungen und Belohnungen. Perfekt für Spieler, die Bonus-Inhalte und Extras freischalten möchten.",
+          "href": "/items/icycle-on-thin-ice-bonus-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Herausforderungen",
+              "detail": "Schließe 80 levelspezifische Aufgaben für maximale Sammelalbum-Sterne ab"
+            },
+            {
+              "label": "Sammelalbum",
+              "detail": "Schalte nostalgische Fotos frei, indem du strikte Etappenbedingungen erfüllst"
+            },
+            {
+              "label": "Bonusläufe",
+              "detail": "Erziele Extrasterne durch fehlerfreie Leveldurchläufe ohne Tode"
+            },
+            {
+              "label": "Kleidung",
+              "detail": "Trage vorgegebene Hüte und Anzüge, um exzentrische Missionsziele zu erreichen"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Icycle On Thin Ice Gameplay-Tipps",
+          "description": "Praktische Tipps zu Steuerung, Timing, Gefahrenvermeidung und Präzisions-Plattforming. Schnelle Lösungen für häufige knifflige Spielsituationen.",
+          "href": "/mechanics/icycle-on-thin-ice-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Taktieren",
+              "detail": "Tippe im Flug wiederholt auf Sprung zur feinfühligen Höhenkontrolle"
+            },
+            {
+              "label": "Luftbremse",
+              "detail": "Steuere in der Luft gegen die Flugrichtung für punktgenaue Landungen"
+            },
+            {
+              "label": "Hänge",
+              "detail": "Nutze das Gefälle für Schwunggewinn ohne unüberlegtes Treten"
+            },
+            {
+              "label": "Wirtschaft",
+              "detail": "Priorisiere Staubsauger-Reichweite vor Outfits für schnellen Währungsgewinn"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Icycle On Thin Ice Trailer & Gameplay",
+          "description": "Medienbereich mit offiziellen Trailern und Gameplay-Videos, die den surrealen Kunststil und das unverwechselbare Plattformerlebnis präsentieren.",
+          "href": "/community/icycle-on-thin-ice-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pop-Art",
+              "detail": "Grafikdesign der 60er Jahre trifft europäische surreale Illustrationskunst"
+            },
+            {
+              "label": "Audio",
+              "detail": "Stimmungsvolles Sounddesign mit maßgeschneiderten akustischen Foley-Effekten"
+            },
+            {
+              "label": "Atmosphäre",
+              "detail": "Poetische Balance zwischen melancholischer Einsamkeit und heiterem Slapstick"
+            },
+            {
+              "label": "Kinetik",
+              "detail": "Lebendige Umgebungen, die in Echtzeit zerbrechen, nachgeben und einstürzen"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Icycle On Thin Ice Spielinformationen",
+          "description": "Referenzbereich mit offiziellen Spieldetails zu Entwicklern, Release, Plattformen, Features und Systemanforderungen auf einen Blick.",
+          "href": "/platforms/icycle-on-thin-ice-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Entwickler",
+              "detail": "Erschaffen von Damp Gnat (Reece Millidge) mit unverwechselbarem Indie-Stil"
+            },
+            {
+              "label": "Plattformen",
+              "detail": "Erhältlich auf PC via Steam sowie für Mobilgeräte im iOS App Store"
+            },
+            {
+              "label": "Features",
+              "detail": "Volle Controller-Unterstützung, Steam-Erfolge und Bonus-Level"
+            },
+            {
+              "label": "Klassiker",
+              "detail": "Enthält das komplett restaurierte Original-Flash-Browserabenteuer"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf häufige Fragen zu Icycle On Thin Ice.",
+      "items": [
+        {
+          "question": "Worum geht es in Icycle On Thin Ice?",
+          "answer": "Icycle On Thin Ice begleitet Dennis auf einer surrealen Winterreise, bei der er auf einem kleinen Fahrrad durch eisige Traumlandschaften und einstürzende Gefahrenzonen fährt, stets auf der Suche nach seiner Liebe in einer gefrorenen Apokalypse."
+        },
+        {
+          "question": "Wie funktionieren Bewegung und Sprungphysik in Icycle On Thin Ice?",
+          "answer": "In Icycle On Thin Ice steuert Dennis ein Fahrrad, das durch Schwung und Oberflächenreibung bestimmt wird. Treten baut Rotationsgeschwindigkeit auf, während Springen und gezieltes Aufspannen des Schirms es ermöglichen, Aufwinde zu nutzen, über Abgründe zu gleiten und sanft auf rutschigem Eis zu landen."
+        },
+        {
+          "question": "Welche Upgrades sollte man in Icycle On Thin Ice zuerst kaufen?",
+          "answer": "Im Eisschrank-Shop von Icycle On Thin Ice solltest du dem Kanister-Staubsauger und verbesserten Gleitschirmen Vorrang vor kosmetischer Kleidung geben. Staubsauger ziehen entfernte Eissplitter automatisch an und vergrößern deine Währungsreserven für späte Level erheblich."
+        },
+        {
+          "question": "Wie viele Level und Geheimmissionen gibt es in Icycle On Thin Ice?",
+          "answer": "Icycle On Thin Ice umfasst 27 Hauptkampagnen-Schauplätze, 5 surreale Bonus-Traumsequenzen, 5 versteckte Kammern und 80 anspruchsvolle Missionsziele, die besondere Kleidungsstücke und Album-Schnappschüsse freischalten."
+        },
+        {
+          "question": "Wo kann man Icycle On Thin Ice spielen?",
+          "answer": "Icycle On Thin Ice ist auf Steam für PC mit vollständiger Controller-Unterstützung und inklusive des ursprünglichen Browser-Klassikers erhältlich, sowie für Mobilgeräte auf iOS."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit für die Reise in Icycle On Thin Ice?",
+      "description": "Von der ersten Fahrt durch die frostigen Weiten bis zur Meisterung jedes anspruchsvollen Levels – unser Community-Wiki bietet dir alle vollständigen Leitfäden.",
+      "primary": "Spiele-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Ähnliche Leitfäden",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Icycle On Thin Ice Wiki",
+    "about": "Icycle On Thin Ice Wiki ist eine unabhängige, von Fans erstellte Anlaufstelle mit Level-Guides, Gameplay-Mechaniken, Gegenständen und Komplettlösungen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Icycle On Thin Ice Wiki. Nicht verbunden mit Damp Gnat, Chillingo oder Steam.",
+    "description": "Bezauberndes winterliches Rätsel- und Plattformabenteuer. Erkunde eisige Landschaften und überlebe gefrorene Gefahren.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Offizieller Trailer",
+    "vvBuilder": "Spiele-Guide",
+    "beginnerGuide": "Einsteiger-Leitfaden",
+    "raceGuides": "Level-Leitfaden",
+    "bossGuides": "Gegenstände & Upgrades",
+    "buildGuide": "Gameplay-Tipps",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Icycle On Thin Ice Leitfaden & Erste Schritte",
+    "overviewDescription": "Umfassende Einsteiger-Leitfäden, Fortschrittstipps und grundlegende Mechaniken zum Überleben in den Eislandschaften von Icycle On Thin Ice."
+  },
+  "walkthrough": {
+    "overviewTitle": "Icycle On Thin Ice Komplettlösung & Level-Tipps",
+    "overviewDescription": "Schritt-für-Schritt-Lösungen, Tricks für schwierige Sprünge und Überlebensstrategien für alle anspruchsvollen Schauplätze in Icycle On Thin Ice."
+  },
+  "levels": {
+    "overviewTitle": "Icycle On Thin Ice Level-Leitfaden",
+    "overviewDescription": "Detaillierte Level-Übersichten, Umgang mit Gefahren und Tipps zum erfolgreichen Abschluss aller Abschnitte in Icycle On Thin Ice."
+  },
+  "items": {
+    "overviewTitle": "Icycle On Thin Ice Gegenstände, Träume & Extras",
+    "overviewDescription": "Entdecke Sammelgegenstände, Bonus-Traumlevel, Kleiderschrank-Upgrades und Abzeichen in Icycle On Thin Ice."
+  },
+  "mechanics": {
+    "overviewTitle": "Icycle On Thin Ice Mechaniken & Tipps",
+    "overviewDescription": "Meistere Schirmgleiten, Schwungphysik auf dem Fahrrad, Speedrun-Routen und den Abschluss aller Erfolge in Icycle On Thin Ice."
+  },
+  "platforms": {
+    "overviewTitle": "Icycle On Thin Ice Plattformen & Verfügbarkeit",
+    "overviewDescription": "Informationen zur Steam-PC-Version, mobilen Ausgaben, Steuerungsoptionen und Plattformverfügbarkeit für Icycle On Thin Ice."
+  },
+  "community": {
+    "overviewTitle": "Icycle On Thin Ice Community & Medien",
+    "overviewDescription": "Trailer, Spielrezensionen, Community-Diskussionen und Gameplay-Vorführungen zu Icycle On Thin Ice."
+  }
+}
